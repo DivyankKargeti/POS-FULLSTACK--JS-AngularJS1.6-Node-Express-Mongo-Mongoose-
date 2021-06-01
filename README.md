@@ -7,7 +7,7 @@
 [AngularJS Repo Link](https://github.com/DivyankKargeti/AngularJS-v1.6)
 
 #### Backend - Node,Express,MongoDB,Mongoose
-[Backend Repo Link](https://github.com/DivyankKargeti/JS-Training)
+[Backend Repo Link](https://github.com/DivyankKargeti/Backend-Node-Express-Mongo-Mongoose)
 
 #### FullStack Project - Bootstrap, Angularjs 1.6, Node, Express, MongoDB, Mongoose
 [FullStack Project Repo Link](https://github.com/DivyankKargeti/MEAN-Stack-App-MongoDB-Express-AngularJS1.6-Node-)
